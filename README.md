@@ -30,7 +30,7 @@ We need to store all **Public Information** records on our personal budget from 
 `#PublicInformation > ng > div:nth-child(1) > table` (this selector will only exist if there are public records available)`
 
 ## Screenshot of Data Table in HTML
-![Table Appears in HTML](file%20to%20be%20parsed%20-%20publicinformation.png?raw=true "Table Appears in HTML")
+![Table Appears in HTML](publicinformation_reference.png?raw=true "Table Appears in HTML")
 
 ## Data Once Inputed to Postgres
 |Reference|Report Date|Type|ChesterPA|AllenTX|AtlantaGA|
@@ -45,6 +45,3 @@ We need to store all **Public Information** records on our personal budget from 
 |BR54898847|05/23/2024|Liability:|$0.00|$0.00|$0.00|
 |BR54898847|05/23/2024|Exempt Amount:|$0.00|$0.00|$0.00|
 |BR54898847|05/23/2024|Remarks:|-|-|-|
-
-## Screenshot of Reference Table
-![Table Appears in HTML](publicinformation_reference.png?raw=true "Table Appears in HTML")
